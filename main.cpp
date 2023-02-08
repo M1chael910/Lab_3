@@ -1,5 +1,7 @@
 /*
- *
+ * Michael Murphy
+ * CSC 121
+ * Lab_3
  */
 
 #include <iostream>
