@@ -1,0 +1,7 @@
+1.	Create an Integer array – Numbers[6] and set those #s = 0-5 [X]
+2.	Display all #s 0-5  0  1  2  3  4  5  and then prompt the user to choose a #
+3.	As the user chooses a #, replace that value with an 8
+     For example, if the user chooses 3, then display 0  1  2  8  4  5
+4.	Continue until all #s are 8
+
+If the program above used a char array instead of integers, How would the program change?
